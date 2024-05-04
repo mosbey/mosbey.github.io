@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on potatocanonical</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on potatocanonical</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2024 01:12:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital life organization</title>
+      <link>http://localhost:1313/posts/2024-05-04-digital_life_organization/</link>
+      <pubDate>Sat, 04 May 2024 01:12:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024-05-04-digital_life_organization/</guid>
+      <description>Equipment declutter Things that no longer serve me do not deserve space in my life. They should serve others or be recycled. Clearing the data off of equipment to be retired is easier when that equipement is newer. Allowing old batteries to age in place benefits no one. Digital declutter Holding data represents risk and reward. Holding data I no longer need represents risk without reward. Online footprint Accounts that are not in use represent a risk and are likely to be taken over.</description>
+    </item>
+  </channel>
+</rss>
