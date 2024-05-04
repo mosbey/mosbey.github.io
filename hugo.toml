@@ -1,0 +1,4 @@
+baseURL = 'https://potatocanonical.com/'
+languageCode = 'en-us'
+title = 'potatocanonical'
+theme = 'smol'
