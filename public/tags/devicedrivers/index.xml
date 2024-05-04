@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DeviceDrivers on potatocanonical</title>
+    <link>http://localhost:1313/tags/devicedrivers/</link>
+    <description>Recent content in DeviceDrivers on potatocanonical</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2024 12:48:26 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/devicedrivers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meshtastic and Device Drivers not available for Windows on ARM</title>
+      <link>http://localhost:1313/posts/2024-05-04-meshtastic_device_drivers_windows_on_arm/</link>
+      <pubDate>Sat, 04 May 2024 12:48:26 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024-05-04-meshtastic_device_drivers_windows_on_arm/</guid>
+      <description>It&amp;rsquo;s kind of unfortunate, but I&amp;rsquo;ve run into a problem several times flashing Meshtastic devices using a Windows on ARM computer. It seems these drivers either don&amp;rsquo;t exist, or aren&amp;rsquo;t available for automatic download via Windows Update. My only solution so far as been to switch to a Windows device running on x86_64.</description>
+    </item>
+  </channel>
+</rss>
