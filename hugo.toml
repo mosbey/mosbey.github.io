@@ -38,4 +38,6 @@ theme = 'smol'
     [[menu.footer]]
         name = "rss"
         url = "/index.xml"
-        weight = 3 
+        weight = 2 
+
+enableGitInfo = true
