@@ -41,3 +41,5 @@ theme = 'smol'
         weight = 2 
 
 enableGitInfo = true
+
+enableRobotsTXT = true
