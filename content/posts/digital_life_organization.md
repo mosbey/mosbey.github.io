@@ -7,7 +7,13 @@ draft: false
 categories:
   - digital_life_organization
 tags:
-  - health, intention, permacomputing, retrocomputing, enshittification, privacy, security
+  - health
+  - intention
+  - permacomputing
+  - retrocomputing
+  - enshittification
+  - privacy
+  - security
 ---
 
 # Equipment declutter
