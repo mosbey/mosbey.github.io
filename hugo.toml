@@ -31,11 +31,11 @@ theme = 'smol'
 # Footer
 
     [[menu.footer]]
-        name = "Mastodon"
+        name = "mastodon"
         url = "https://infosec.exchange/@mose"
         weight = 1
 
     [[menu.footer]]
-        name = "Imprint"
-        url = "/imprint"
+        name = "rss"
+        url = "/index.xml"
         weight = 3 
